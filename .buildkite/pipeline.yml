@@ -1,3 +1,4 @@
+image: "sorchaabel/cmake-pipeline-example:1.0"
 steps:
   - label: ":cmake: Build & Test"
     commands:
